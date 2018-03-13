@@ -4,7 +4,7 @@ Javascript-database
 A working project for High-performance javascript and database source code in C.  The database operations are performed directly from a javascript dialect program, or over tcp connections from mongo shells, or node.js connections.
 
 ```
-git clone --recursive git://github.com/malbrain/javascript-database
+git clone --recursive git://github.com/PLW/javascript-database
 ```
 Download latest commits (after cloning):
 
@@ -63,6 +63,5 @@ A mongo direct interface that implements mongo shell commands directly on the se
 ```
 jsdb system*.js jsDb*.js test_mongo.js
 ```
-Please address any concerns, bug reports, or questions to the author: malbrain@cal.berkeley.edu.
 
 # javascript-database
